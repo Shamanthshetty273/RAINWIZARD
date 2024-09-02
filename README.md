@@ -24,7 +24,7 @@ RainWizard is an ongoing rainfall prediction project currently under development
 ## Contributors
 
 - **Shamanth Shetty**: Project Lead and Data Scientist
-- **[Team Members]**: (Add names and roles)
+- **[Rishab Gudigar, Anoop V Acharya, Deepak Prabhu.]**
 
 ## License
 
